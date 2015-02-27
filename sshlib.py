@@ -1,5 +1,4 @@
 import subprocess
-import sys
 
 
 def cleanup_output(content):
