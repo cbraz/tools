@@ -1,0 +1,9 @@
+---
+system:
+  disk:
+    command: "df -h"
+  uptime:
+    command: "uptime"
+  memory:
+    command: "free -m"
+    
