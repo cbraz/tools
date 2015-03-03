@@ -1,7 +1,9 @@
 ---
 system:
   disk:
-    command: "df -h"
+    command: 
+      - "df -h"
+      - "du /tmp"
   uptime:
     command: "uptime"
   memory:

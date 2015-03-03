@@ -1,0 +1,588 @@
+DEBUG:root:This message should go to the log file
+INFO:root:So should this
+WARNING:root:And this, too
+2015-03-02 22:39:10,677 This message should go to the log file
+2015-03-02 22:39:10,677 So should this
+2015-03-02 22:39:10,678 And this, too
+2015-03-02 22:40:27,415 This message should go to the log file
+2015-03-02 22:40:27,415 So should this
+2015-03-02 22:40:27,415 And this, too
+2015-03-02 22:41:08,077 This message should go to the log file
+2015-03-02 22:41:08,077 So should this
+2015-03-02 22:41:08,077 And this, too
+2015-03-02 22:41:08,077 ERROR: Failed to open finebadyaml.yamlsd
+2015-03-02 22:42:13,392 ERROR: Failed to open fine badyaml.yamlsd
+2015-03-02 22:42:35,636 ERROR: Failed to open fine badyaml.yamlsd
+2015-03-02 22:44:46,698 ERROR: Failed to open fine badyaml.yamlsd
+2015-03-02 22:48:19,114 ERROR: Failed to open fine badyaml.yamlsd
+2015-03-02 22:48:42,051 ERROR: Failed to open file badyaml.yamlsd
+2015-03-02 22:48:44,553 ERROR: Failed to parse yaml inbadyaml.yaml
+2015-03-02 22:49:37,967 ERROR: Failed to parse yaml inbadyaml.yaml
+2015-03-02 22:49:49,555 ERROR: Failed to parse yaml inbadyaml.yaml
+2015-03-02 22:53:02,070 DEBUG: opening badyaml.yaml
+2015-03-02 22:53:02,070 DEBUG: loading yaml frombadyaml.yaml
+2015-03-02 22:53:02,072 ERROR: Failed to parse yaml inbadyaml.yaml
+2015-03-02 22:53:08,218 DEBUG: opening badyaml.yamlasd
+2015-03-02 22:53:08,218 ERROR: Failed to open file badyaml.yamlasd
+2015-03-02 22:55:01,079 ERROR: Failed to open file badyaml.yamlasd
+2015-03-02 22:55:05,685 ERROR: Failed to parse yaml inbadyaml.yaml
+2015-03-02 22:55:23,949 DEBUG: opening testyaml.yaml
+2015-03-02 22:55:23,949 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 22:55:23,951 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 22:55:23,951 DEBUG: opening testyaml.yaml
+2015-03-02 22:55:23,951 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 22:55:23,953 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:06:48,697 DEBUG: opening testyaml.yaml
+2015-03-02 23:06:48,697 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:06:48,699 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:06:48,699 DEBUG: opening testyaml.yaml
+2015-03-02 23:06:48,699 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:06:48,701 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:34:18,555 DEBUG: opening testyaml.yaml
+2015-03-02 23:34:18,555 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:34:18,558 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:34:25,537 DEBUG: opening testyaml.yaml
+2015-03-02 23:34:25,538 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:34:25,540 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:35:51,143 DEBUG: opening testyaml.yaml
+2015-03-02 23:35:51,143 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:35:51,146 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:36:06,940 DEBUG: opening testyaml.yaml
+2015-03-02 23:36:06,940 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:36:06,943 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:36:41,039 DEBUG: opening testyaml.yaml
+2015-03-02 23:36:41,039 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:36:41,043 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:37:19,850 DEBUG: opening testyaml.yaml
+2015-03-02 23:37:19,850 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:37:19,853 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:42:03,893 DEBUG: opening testyaml.yaml
+2015-03-02 23:42:03,893 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:42:03,896 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:42:16,563 DEBUG: opening testyaml.yaml
+2015-03-02 23:42:16,563 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:42:16,565 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:42:16,566 DEBUG: found command: uptime
+2015-03-02 23:42:16,566 DEBUG: found command: free -m
+2015-03-02 23:42:16,566 DEBUG: found command: df -h
+2015-03-02 23:42:54,219 DEBUG: opening testyaml.yaml
+2015-03-02 23:42:54,219 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:42:54,222 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:42:54,222 DEBUG: found command: df -h
+2015-03-02 23:42:54,222 DEBUG: found command: uptime
+2015-03-02 23:42:54,222 DEBUG: found command: free -m
+2015-03-02 23:43:46,025 DEBUG: opening testyaml.yaml
+2015-03-02 23:43:46,025 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:43:46,027 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:43:46,027 DEBUG: found command: du /tmp
+2015-03-02 23:43:46,027 DEBUG: found command: uptime
+2015-03-02 23:43:46,028 DEBUG: found command: free -m
+2015-03-02 23:43:51,563 DEBUG: opening testyaml.yaml
+2015-03-02 23:43:51,563 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:43:51,565 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:43:51,566 DEBUG: found command: uptime
+2015-03-02 23:43:51,566 DEBUG: found command: du /tmp
+2015-03-02 23:43:51,566 DEBUG: found command: free -m
+2015-03-02 23:43:55,859 DEBUG: opening testyaml.yaml
+2015-03-02 23:43:55,859 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:43:55,861 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:43:55,861 DEBUG: found command: uptime
+2015-03-02 23:43:55,861 DEBUG: found command: du /tmp
+2015-03-02 23:43:55,861 DEBUG: found command: free -m
+2015-03-02 23:45:03,070 DEBUG: opening testyaml.yaml
+2015-03-02 23:45:03,070 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:45:03,073 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:45:03,073 DEBUG: found command: uptime
+2015-03-02 23:45:03,073 DEBUG: found command: free -m
+2015-03-02 23:45:23,252 DEBUG: opening testyaml.yaml
+2015-03-02 23:45:23,252 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:45:23,254 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:45:23,255 DEBUG: found command: free -m
+2015-03-02 23:45:23,255 DEBUG: found command: uptime
+2015-03-02 23:46:18,903 DEBUG: opening testyaml.yaml
+2015-03-02 23:46:18,903 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:46:18,907 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:46:18,907 DEBUG: found command: uptime
+2015-03-02 23:46:18,907 DEBUG: found command: free -m
+2015-03-02 23:48:05,843 DEBUG: opening testyaml.yaml
+2015-03-02 23:48:05,843 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:48:05,846 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:48:05,846 DEBUG: found command: uptime
+2015-03-02 23:49:13,069 DEBUG: opening testyaml.yaml
+2015-03-02 23:49:13,070 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:49:13,072 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:49:29,254 DEBUG: opening testyaml.yaml
+2015-03-02 23:49:29,254 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:49:29,258 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:49:54,316 DEBUG: opening testyaml.yaml
+2015-03-02 23:49:54,316 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:49:54,319 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:49:54,319 DEBUG: found command: free -m
+2015-03-02 23:57:07,275 DEBUG: opening testyaml.yaml
+2015-03-02 23:57:07,275 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:57:07,278 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:57:17,391 DEBUG: opening testyaml.yaml
+2015-03-02 23:57:17,391 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:57:17,393 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:58:07,393 DEBUG: opening testyaml.yaml
+2015-03-02 23:58:07,393 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:58:07,397 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-02 23:59:25,029 DEBUG: opening testyaml.yaml
+2015-03-02 23:59:25,029 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-02 23:59:25,032 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:00:21,432 DEBUG: opening testyaml.yaml
+2015-03-03 00:00:21,432 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:00:21,435 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:00:21,435 DEBUG: found command: df -h
+2015-03-03 00:00:21,435 DEBUG: found command: du /tmp
+2015-03-03 00:00:39,213 DEBUG: opening testyaml.yaml
+2015-03-03 00:00:39,213 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:00:39,216 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:00:59,775 DEBUG: opening testyaml.yaml
+2015-03-03 00:00:59,775 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:00:59,778 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:01:02,319 DEBUG: opening testyaml.yaml
+2015-03-03 00:01:02,319 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:01:02,322 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:12:37,627 DEBUG: opening testyaml.yaml
+2015-03-03 00:12:37,627 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:12:37,631 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:13:00,313 DEBUG: opening testyaml.yaml
+2015-03-03 00:13:00,313 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:13:00,317 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:23:04,033 DEBUG: opening testyaml.yaml
+2015-03-03 00:23:04,033 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:23:04,036 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:23:04,036 DEBUG: found command: free -m
+2015-03-03 00:23:04,036 DEBUG: found command: uptime
+2015-03-03 00:23:15,327 DEBUG: opening testyaml.yaml
+2015-03-03 00:23:15,327 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:23:15,329 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:23:15,329 DEBUG: found command: uptime
+2015-03-03 00:23:15,329 DEBUG: found command: free -m
+2015-03-03 00:24:28,728 DEBUG: opening testyaml.yaml
+2015-03-03 00:24:28,728 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:24:28,731 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:24:28,731 DEBUG: found command: free -m
+2015-03-03 00:24:28,731 DEBUG: found command: uptime
+2015-03-03 00:24:40,777 DEBUG: opening testyaml.yaml
+2015-03-03 00:24:40,777 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:24:40,780 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:24:40,780 DEBUG: found command: free -m
+2015-03-03 00:24:40,780 DEBUG: found command: uptime
+2015-03-03 00:25:24,976 DEBUG: opening testyaml.yaml
+2015-03-03 00:25:24,977 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:25:24,979 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:25:24,980 DEBUG: found command: command
+2015-03-03 00:25:24,980 DEBUG: found command: command
+2015-03-03 00:25:24,980 DEBUG: found command: free -m
+2015-03-03 00:25:24,980 DEBUG: found command: uptime
+2015-03-03 00:25:41,611 DEBUG: opening testyaml.yaml
+2015-03-03 00:25:41,612 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:25:41,614 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:25:41,615 DEBUG: found command: free -m
+2015-03-03 00:25:41,615 DEBUG: found command: df -h
+2015-03-03 00:25:41,615 DEBUG: found command: du /tmp
+2015-03-03 00:25:41,615 DEBUG: found command: uptime
+2015-03-03 00:27:57,102 DEBUG: opening testyaml.yaml
+2015-03-03 00:27:57,102 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:27:57,106 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:27:57,106 DEBUG: found command: df -h
+2015-03-03 00:27:57,106 DEBUG: found command: du /tmp
+2015-03-03 00:27:57,106 DEBUG: found command: free -m
+2015-03-03 00:27:57,106 DEBUG: found command: uptime
+2015-03-03 00:28:11,742 DEBUG: opening testyaml.yaml
+2015-03-03 00:28:11,742 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:28:11,745 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:28:11,745 DEBUG: found command: uptime
+2015-03-03 00:28:11,745 DEBUG: found command: df -h
+2015-03-03 00:28:11,745 DEBUG: found command: du /tmp
+2015-03-03 00:28:11,745 DEBUG: found command: free -m
+2015-03-03 00:28:32,675 DEBUG: opening testyaml.yaml
+2015-03-03 00:28:32,676 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:28:32,680 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:28:32,680 DEBUG: found command: df -h
+2015-03-03 00:28:32,680 DEBUG: found command: du /tmp
+2015-03-03 00:28:32,680 DEBUG: found command: free -m
+2015-03-03 00:28:32,680 DEBUG: found command: uptime
+2015-03-03 00:28:39,508 DEBUG: opening testyaml.yaml
+2015-03-03 00:28:39,508 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:28:39,511 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:28:39,511 DEBUG: found command: uptime
+2015-03-03 00:28:39,511 DEBUG: found command: free -m
+2015-03-03 00:28:39,511 DEBUG: found command: df -h
+2015-03-03 00:28:39,511 DEBUG: found command: du /tmp
+2015-03-03 00:28:58,200 DEBUG: opening testyaml.yaml
+2015-03-03 00:28:58,200 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:28:58,203 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:28:58,203 DEBUG: found command: free -m
+2015-03-03 00:28:58,203 DEBUG: found command: df -h
+2015-03-03 00:28:58,203 DEBUG: found command: du /tmp
+2015-03-03 00:28:58,203 DEBUG: found command: uptime
+2015-03-03 00:29:23,775 DEBUG: opening testyaml.yaml
+2015-03-03 00:29:23,776 DEBUG: loading yaml fromtestyaml.yaml
+2015-03-03 00:29:23,778 DEBUG: returning dict loaded fromtestyaml.yaml
+2015-03-03 00:29:23,778 DEBUG: found command: uptime
+2015-03-03 00:29:23,779 DEBUG: found command: df -h
+2015-03-03 00:29:23,779 DEBUG: found command: du /tmp
+2015-03-03 00:29:23,779 DEBUG: found command: free -m
+2015-03-03 00:30:24,492 DEBUG: opening testyaml.yaml
+2015-03-03 00:30:24,492 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:30:24,496 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:30:24,496 DEBUG: found command: uptime
+2015-03-03 00:30:24,496 DEBUG: found command: df -h
+2015-03-03 00:30:24,496 DEBUG: found command: du /tmp
+2015-03-03 00:30:24,496 DEBUG: found command: free -m
+2015-03-03 00:34:19,524 DEBUG: opening testyaml.yaml
+2015-03-03 00:34:19,524 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:34:19,527 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:35:04,728 DEBUG: opening testyaml.yaml
+2015-03-03 00:35:04,728 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:35:04,731 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:35:15,986 DEBUG: opening testyaml.yaml
+2015-03-03 00:35:15,986 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:35:15,989 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:35:32,970 DEBUG: opening testyaml.yaml
+2015-03-03 00:35:32,970 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:35:32,973 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:35:32,973 DEBUG: found command: df -h
+2015-03-03 00:35:32,973 DEBUG: found command: du /tmp
+2015-03-03 00:35:32,973 DEBUG: found command: free -m
+2015-03-03 00:35:32,973 DEBUG: found command: uptime
+2015-03-03 00:37:00,187 DEBUG: opening testyaml.yaml
+2015-03-03 00:37:00,187 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:37:00,190 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:37:00,190 DEBUG: found command: df -h
+2015-03-03 00:37:00,190 DEBUG: found command: du /tmp
+2015-03-03 00:37:00,190 DEBUG: found command: free -m
+2015-03-03 00:37:00,191 DEBUG: found command: uptime
+2015-03-03 00:42:30,651 DEBUG: opening testyaml.yaml
+2015-03-03 00:42:30,651 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:42:30,656 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:42:30,656 DEBUG: found command: free -m
+2015-03-03 00:42:30,656 DEBUG: found command: uptime
+2015-03-03 00:42:30,656 DEBUG: found command: df -h
+2015-03-03 00:42:30,656 DEBUG: found command: du /tmp
+2015-03-03 00:45:08,903 DEBUG: opening testyaml.yaml
+2015-03-03 00:45:08,903 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:45:08,906 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:45:08,906 DEBUG: found command: df -h
+2015-03-03 00:45:08,906 DEBUG: found command: du /tmp
+2015-03-03 00:45:08,906 DEBUG: found command: free -m
+2015-03-03 00:45:08,906 DEBUG: found command: uptime
+2015-03-03 00:46:48,275 DEBUG: opening testyaml.yaml
+2015-03-03 00:46:48,276 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:46:48,278 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:46:48,279 DEBUG: found command: uptime
+2015-03-03 00:46:48,279 DEBUG: found command: df -h
+2015-03-03 00:46:48,279 DEBUG: found command: du /tmp
+2015-03-03 00:46:48,279 DEBUG: found command: free -m
+2015-03-03 00:47:34,994 DEBUG: opening testyaml.yaml
+2015-03-03 00:47:34,995 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:47:34,998 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:47:34,998 DEBUG: found command: free -m
+2015-03-03 00:47:34,998 DEBUG: found command: uptime
+2015-03-03 00:47:34,998 DEBUG: found command: df -h
+2015-03-03 00:47:34,998 DEBUG: found command: du /tmp
+2015-03-03 00:48:13,894 DEBUG: opening testyaml.yaml
+2015-03-03 00:48:13,894 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:48:13,897 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:48:13,897 DEBUG: found command: uptime
+2015-03-03 00:48:13,898 DEBUG: found command: free -m
+2015-03-03 00:48:13,898 DEBUG: found command: df -h
+2015-03-03 00:48:13,898 DEBUG: found command: du /tmp
+2015-03-03 00:49:06,122 DEBUG: opening testyaml.yaml
+2015-03-03 00:49:06,122 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:49:06,125 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:49:06,125 DEBUG: found command: df -h
+2015-03-03 00:49:06,125 DEBUG: found command: du /tmp
+2015-03-03 00:49:06,125 DEBUG: found command: uptime
+2015-03-03 00:49:06,126 DEBUG: found command: free -m
+2015-03-03 00:49:32,715 DEBUG: opening testyaml.yaml
+2015-03-03 00:49:32,715 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:49:32,718 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:49:32,718 DEBUG: found command: free -m
+2015-03-03 00:49:32,718 DEBUG: found command: df -h
+2015-03-03 00:49:32,718 DEBUG: found command: du /tmp
+2015-03-03 00:49:32,718 DEBUG: found command: uptime
+2015-03-03 00:51:11,096 DEBUG: opening testyaml.yaml
+2015-03-03 00:51:11,096 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:51:11,100 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:51:11,100 DEBUG: found command: df -h
+2015-03-03 00:51:11,100 DEBUG: found command: du /tmp
+2015-03-03 00:51:11,100 DEBUG: found command: free -m
+2015-03-03 00:51:11,100 DEBUG: found command: uptime
+2015-03-03 00:51:29,528 DEBUG: opening testyaml.yaml
+2015-03-03 00:51:29,528 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:51:29,531 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:51:29,531 DEBUG: found command: df -h
+2015-03-03 00:51:29,531 DEBUG: found command: du /tmp
+2015-03-03 00:51:29,531 DEBUG: found command: uptime
+2015-03-03 00:51:29,531 DEBUG: found command: free -m
+2015-03-03 00:52:37,355 DEBUG: opening testyaml.yaml
+2015-03-03 00:52:37,355 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:52:37,358 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:52:37,358 DEBUG: found command: df -h
+2015-03-03 00:52:37,358 DEBUG: found command: du /tmp
+2015-03-03 00:52:37,359 DEBUG: found command: uptime
+2015-03-03 00:52:37,359 DEBUG: found command: free -m
+2015-03-03 00:52:56,261 DEBUG: opening testyaml.yaml
+2015-03-03 00:52:56,262 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:52:56,265 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:52:56,265 DEBUG: found command: free -m
+2015-03-03 00:52:56,265 DEBUG: found command: df -h
+2015-03-03 00:52:56,265 DEBUG: found command: du /tmp
+2015-03-03 00:52:56,265 DEBUG: found command: uptime
+2015-03-03 00:54:26,159 DEBUG: opening testyaml.yaml
+2015-03-03 00:54:26,159 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:54:26,162 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:54:26,162 DEBUG: found command: df -h
+2015-03-03 00:54:26,162 DEBUG: found command: du /tmp
+2015-03-03 00:54:26,162 DEBUG: found command: free -m
+2015-03-03 00:54:26,162 DEBUG: found command: uptime
+2015-03-03 00:54:45,742 DEBUG: opening testyaml.yaml
+2015-03-03 00:54:45,743 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:54:45,746 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:54:45,746 DEBUG: found command: df -h
+2015-03-03 00:54:45,746 DEBUG: found command: du /tmp
+2015-03-03 00:54:45,746 DEBUG: found command: uptime
+2015-03-03 00:54:45,746 DEBUG: found command: free -m
+2015-03-03 00:55:13,100 DEBUG: opening testyaml.yaml
+2015-03-03 00:55:13,101 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:55:13,103 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:55:13,104 DEBUG: found command: df -h
+2015-03-03 00:55:13,104 DEBUG: found command: du /tmp
+2015-03-03 00:55:13,104 DEBUG: found command: free -m
+2015-03-03 00:55:13,104 DEBUG: found command: uptime
+2015-03-03 00:56:10,672 DEBUG: opening testyaml.yaml
+2015-03-03 00:56:10,672 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:56:10,675 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:56:10,675 DEBUG: found command: free -m
+2015-03-03 00:56:10,675 DEBUG: found command: df -h
+2015-03-03 00:56:10,675 DEBUG: found command: du /tmp
+2015-03-03 00:56:10,675 DEBUG: found command: uptime
+2015-03-03 00:56:11,402 DEBUG: 192.168.1.150 STDOUT               total        used        free      shared  buff/cache   available
+Mem:            741         465           7          83         268         167
+Swap:             0           0           0
+
+2015-03-03 00:57:12,767 DEBUG: opening testyaml.yaml
+2015-03-03 00:57:12,767 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:57:12,770 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:57:12,770 DEBUG: found command: uptime
+2015-03-03 00:57:12,770 DEBUG: found command: free -m
+2015-03-03 00:57:12,770 DEBUG: found command: df -h
+2015-03-03 00:57:12,770 DEBUG: found command: du /tmp
+2015-03-03 00:57:13,294 DEBUG: 192.168.1.150 STDOUT  00:57:13 up 20 days, 23:29,  1 user,  load average: 0.57, 0.89, 0.87
+
+2015-03-03 00:57:13,647 DEBUG: 192.168.1.150 STDOUT               total        used        free      shared  buff/cache   available
+Mem:            741         470           8          84         262         163
+Swap:             0           0           0
+
+2015-03-03 00:57:14,070 DEBUG: 192.168.1.150 STDOUT Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        15G  3.2G   11G  24% /
+devtmpfs        367M     0  367M   0% /dev
+tmpfs           371M   84M  288M  23% /dev/shm
+tmpfs           371M  340K  371M   1% /run
+tmpfs           371M     0  371M   0% /sys/fs/cgroup
+tmpfs           371M  8.0K  371M   1% /tmp
+/dev/mmcblk0p1  100M   12M   88M  12% /boot
+tmpfs            75M  4.0K   75M   1% /run/user/1000
+
+2015-03-03 00:57:14,551 DEBUG: 192.168.1.150 STDOUT 0	/tmp/.org.chromium.Chromium.LtUPxP
+4	/tmp/pip_build_root
+4	/tmp/pip_build_celso
+0	/tmp/tmux-1000
+0	/tmp/systemd-private-bdf5217f8a25457a9fa99688f7df302e-systemd-timesyncd.service-GKuesX
+0	/tmp/.font-unix
+0	/tmp/.Test-unix
+0	/tmp/.ICE-unix
+0	/tmp/.XIM-unix
+0	/tmp/.X11-unix
+8	/tmp
+
+2015-03-03 00:57:18,567 DEBUG: 192.168.1.127 STDOUT  01:09:49 up 286 days,  5:01,  0 users,  load average: 0.05, 0.25, 0.58
+
+2015-03-03 00:57:18,841 DEBUG: 192.168.1.127 STDOUT              total       used       free     shared    buffers     cached
+Mem:          7954       7226        728          0        268       1042
+-/+ buffers/cache:       5915       2039
+Swap:            0          0          0
+
+2015-03-03 00:57:19,182 DEBUG: 192.168.1.127 STDOUT Filesystem        Size  Used Avail Use% Mounted on
+/dev/sdf1          15G  5.7G  8.3G  41% /
+udev              3.9G   12K  3.9G   1% /dev
+tmpfs             796M  1.5M  795M   1% /run
+none              5.0M     0  5.0M   0% /run/lock
+none              3.9G  4.0K  3.9G   1% /run/shm
+tank              7.7T  7.1T  543G  94% /tank
+tank/Media        3.7T  3.1T  543G  86% /tank/Media
+tank/timemachine  543G  256K  543G   1% /tank/timemachine
+
+2015-03-03 00:57:19,441 DEBUG: 192.168.1.127 STDOUT 144148	/tmp/plex-transcode-kxk2ukyblewjnhfr-7e701a6d-ad7d-46b7-99bc-d29152b14d14
+4	/tmp/tmux-1000
+4	/tmp/.winbindd
+151976	/tmp
+
+2015-03-03 00:57:53,487 DEBUG: opening testyaml.yaml
+2015-03-03 00:57:53,487 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:57:53,490 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:57:53,490 DEBUG: found command: free -m
+2015-03-03 00:57:53,491 DEBUG: found command: uptime
+2015-03-03 00:57:53,491 DEBUG: found command: df -h
+2015-03-03 00:57:53,491 DEBUG: found command: du /tmp
+2015-03-03 00:57:53,974 DEBUG: 192.168.1.150 STDOUT               total        used        free      shared  buff/cache   available
+Mem:            741         468          12          83         261         165
+Swap:             0           0           0
+
+2015-03-03 00:57:54,459 DEBUG: 192.168.1.150 STDOUT  00:57:54 up 20 days, 23:30,  1 user,  load average: 0.77, 0.90, 0.87
+
+2015-03-03 00:57:54,863 DEBUG: 192.168.1.150 STDOUT Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        15G  3.2G   11G  24% /
+devtmpfs        367M     0  367M   0% /dev
+tmpfs           371M   84M  288M  23% /dev/shm
+tmpfs           371M  340K  371M   1% /run
+tmpfs           371M     0  371M   0% /sys/fs/cgroup
+tmpfs           371M  8.0K  371M   1% /tmp
+/dev/mmcblk0p1  100M   12M   88M  12% /boot
+tmpfs            75M  4.0K   75M   1% /run/user/1000
+
+2015-03-03 00:57:55,420 DEBUG: 192.168.1.150 STDOUT 0	/tmp/.org.chromium.Chromium.LtUPxP
+4	/tmp/pip_build_root
+4	/tmp/pip_build_celso
+0	/tmp/tmux-1000
+0	/tmp/systemd-private-bdf5217f8a25457a9fa99688f7df302e-systemd-timesyncd.service-GKuesX
+0	/tmp/.font-unix
+0	/tmp/.Test-unix
+0	/tmp/.ICE-unix
+0	/tmp/.XIM-unix
+0	/tmp/.X11-unix
+8	/tmp
+
+2015-03-03 00:57:55,682 DEBUG: 192.168.1.127 STDOUT              total       used       free     shared    buffers     cached
+Mem:          7954       7226        727          0        268       1042
+-/+ buffers/cache:       5915       2039
+Swap:            0          0          0
+
+2015-03-03 00:57:55,918 DEBUG: 192.168.1.127 STDOUT  01:10:26 up 286 days,  5:02,  0 users,  load average: 0.03, 0.22, 0.56
+
+2015-03-03 00:57:56,164 DEBUG: 192.168.1.127 STDOUT Filesystem        Size  Used Avail Use% Mounted on
+/dev/sdf1          15G  5.7G  8.3G  41% /
+udev              3.9G   12K  3.9G   1% /dev
+tmpfs             796M  1.5M  795M   1% /run
+none              5.0M     0  5.0M   0% /run/lock
+none              3.9G  4.0K  3.9G   1% /run/shm
+tank              7.7T  7.1T  543G  94% /tank
+tank/Media        3.7T  3.1T  543G  86% /tank/Media
+tank/timemachine  543G  256K  543G   1% /tank/timemachine
+
+2015-03-03 00:57:56,510 DEBUG: 192.168.1.127 STDOUT 144148	/tmp/plex-transcode-kxk2ukyblewjnhfr-7e701a6d-ad7d-46b7-99bc-d29152b14d14
+4	/tmp/tmux-1000
+4	/tmp/.winbindd
+151976	/tmp
+
+2015-03-03 00:59:04,105 DEBUG: opening testyaml.yaml
+2015-03-03 00:59:04,105 DEBUG: loading yaml from testyaml.yaml
+2015-03-03 00:59:04,108 DEBUG: returning dict loaded from testyaml.yaml
+2015-03-03 00:59:04,108 DEBUG: found command: free -m
+2015-03-03 00:59:04,108 DEBUG: found command: uptime
+2015-03-03 00:59:04,108 DEBUG: found command: df -h
+2015-03-03 00:59:04,108 DEBUG: found command: du /tmp
+2015-03-03 00:59:04,891 DEBUG: 192.168.1.150 stdout               total        used        free      shared  buff/cache   available
+Mem:            741         472           9          83         259         160
+Swap:             0           0           0
+
+2015-03-03 00:59:04,891 ERROR: 192.168.1.150 stderr               total        used        free      shared  buff/cache   available
+Mem:            741         472           9          83         259         160
+Swap:             0           0           0
+
+2015-03-03 00:59:05,313 DEBUG: 192.168.1.150 stdout  00:59:05 up 20 days, 23:31,  1 user,  load average: 0.96, 0.92, 0.88
+
+2015-03-03 00:59:05,314 ERROR: 192.168.1.150 stderr  00:59:05 up 20 days, 23:31,  1 user,  load average: 0.96, 0.92, 0.88
+
+2015-03-03 00:59:05,850 DEBUG: 192.168.1.150 stdout Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        15G  3.2G   11G  24% /
+devtmpfs        367M     0  367M   0% /dev
+tmpfs           371M   84M  288M  23% /dev/shm
+tmpfs           371M  340K  371M   1% /run
+tmpfs           371M     0  371M   0% /sys/fs/cgroup
+tmpfs           371M  8.0K  371M   1% /tmp
+/dev/mmcblk0p1  100M   12M   88M  12% /boot
+tmpfs            75M  4.0K   75M   1% /run/user/1000
+
+2015-03-03 00:59:05,851 ERROR: 192.168.1.150 stderr Filesystem      Size  Used Avail Use% Mounted on
+/dev/root        15G  3.2G   11G  24% /
+devtmpfs        367M     0  367M   0% /dev
+tmpfs           371M   84M  288M  23% /dev/shm
+tmpfs           371M  340K  371M   1% /run
+tmpfs           371M     0  371M   0% /sys/fs/cgroup
+tmpfs           371M  8.0K  371M   1% /tmp
+/dev/mmcblk0p1  100M   12M   88M  12% /boot
+tmpfs            75M  4.0K   75M   1% /run/user/1000
+
+2015-03-03 00:59:06,265 DEBUG: 192.168.1.150 stdout 0	/tmp/.org.chromium.Chromium.LtUPxP
+4	/tmp/pip_build_root
+4	/tmp/pip_build_celso
+0	/tmp/tmux-1000
+0	/tmp/systemd-private-bdf5217f8a25457a9fa99688f7df302e-systemd-timesyncd.service-GKuesX
+0	/tmp/.font-unix
+0	/tmp/.Test-unix
+0	/tmp/.ICE-unix
+0	/tmp/.XIM-unix
+0	/tmp/.X11-unix
+8	/tmp
+
+2015-03-03 00:59:06,265 ERROR: 192.168.1.150 stderr 0	/tmp/.org.chromium.Chromium.LtUPxP
+4	/tmp/pip_build_root
+4	/tmp/pip_build_celso
+0	/tmp/tmux-1000
+0	/tmp/systemd-private-bdf5217f8a25457a9fa99688f7df302e-systemd-timesyncd.service-GKuesX
+0	/tmp/.font-unix
+0	/tmp/.Test-unix
+0	/tmp/.ICE-unix
+0	/tmp/.XIM-unix
+0	/tmp/.X11-unix
+8	/tmp
+
+2015-03-03 00:59:06,476 DEBUG: 192.168.1.127 stdout              total       used       free     shared    buffers     cached
+Mem:          7954       7225        728          0        268       1042
+-/+ buffers/cache:       5914       2040
+Swap:            0          0          0
+
+2015-03-03 00:59:06,476 ERROR: 192.168.1.127 stderr              total       used       free     shared    buffers     cached
+Mem:          7954       7225        728          0        268       1042
+-/+ buffers/cache:       5914       2040
+Swap:            0          0          0
+
+2015-03-03 00:59:06,717 DEBUG: 192.168.1.127 stdout  01:11:37 up 286 days,  5:03,  0 users,  load average: 0.08, 0.19, 0.53
+
+2015-03-03 00:59:06,718 ERROR: 192.168.1.127 stderr  01:11:37 up 286 days,  5:03,  0 users,  load average: 0.08, 0.19, 0.53
+
+2015-03-03 00:59:07,061 DEBUG: 192.168.1.127 stdout Filesystem        Size  Used Avail Use% Mounted on
+/dev/sdf1          15G  5.7G  8.3G  41% /
+udev              3.9G   12K  3.9G   1% /dev
+tmpfs             796M  1.5M  795M   1% /run
+none              5.0M     0  5.0M   0% /run/lock
+none              3.9G  4.0K  3.9G   1% /run/shm
+tank              7.7T  7.1T  543G  94% /tank
+tank/Media        3.7T  3.1T  543G  86% /tank/Media
+tank/timemachine  543G  256K  543G   1% /tank/timemachine
+
+2015-03-03 00:59:07,061 ERROR: 192.168.1.127 stderr Filesystem        Size  Used Avail Use% Mounted on
+/dev/sdf1          15G  5.7G  8.3G  41% /
+udev              3.9G   12K  3.9G   1% /dev
+tmpfs             796M  1.5M  795M   1% /run
+none              5.0M     0  5.0M   0% /run/lock
+none              3.9G  4.0K  3.9G   1% /run/shm
+tank              7.7T  7.1T  543G  94% /tank
+tank/Media        3.7T  3.1T  543G  86% /tank/Media
+tank/timemachine  543G  256K  543G   1% /tank/timemachine
+
+2015-03-03 00:59:07,321 DEBUG: 192.168.1.127 stdout 144148	/tmp/plex-transcode-kxk2ukyblewjnhfr-7e701a6d-ad7d-46b7-99bc-d29152b14d14
+4	/tmp/tmux-1000
+4	/tmp/.winbindd
+151976	/tmp
+
+2015-03-03 00:59:07,322 ERROR: 192.168.1.127 stderr 144148	/tmp/plex-transcode-kxk2ukyblewjnhfr-7e701a6d-ad7d-46b7-99bc-d29152b14d14
+4	/tmp/tmux-1000
+4	/tmp/.winbindd
+151976	/tmp
+
