@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
-from libs import sshlib, yamllib, collect
-#from yamllib import load_yaml,print_yaml
+from libs import sshlib, yamllib, collect, runlocal
 import sys
 
 
@@ -28,6 +27,17 @@ def test_collect():
 
   output = collect.run(config, ["192.168.1.150", "192.168.1.127"])
 
-if __name__ == '__main__':
-  test_collect()  
+def test_runlocal():
+  result = runlocal.execute("ls -l /")
+  print ("\tstdout:\n")
+  for line in result["stdout"]:
+    print(line)
+  print ("\tstderr:\n")
+  for line in result["stderr"]:
+    print(line)
+ 
 
+
+if __name__ == '__main__':
+  #test_collect()  
+  test_runlocal()
