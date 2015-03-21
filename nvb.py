@@ -12,10 +12,10 @@ while True:
 
   os.environ['DISPLAY'] = ":1"
   print("Starting chromium")
-  subprocess.Popen(["chromium", "https://gateway.playneverwinter.com", "&"],env=os.environ, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+  subprocess.Popen(["chromium", "https://gateway.playneverwinter.com"],env=os.environ, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
 
 
-  print("Executing for", sleep_stop, "seconds")
+  print("waiting for", sleep_stop, "seconds before restart")
   sleep(sleep_stop)
   result = runlocal.execute("ps -fe")
   for line in result["stdout"]:
